@@ -1,0 +1,31 @@
+Chaining Insertion Time: 0.557797 Seconds
+Chaining Search Time: 6.71e-07 Seconds
+Chaining Failed Search Time: 5.71e-07 Seconds
+Chaining Deletion Time: 1.292e-06 Seconds
+Chaining Table Size: 999999
+Chaining Bucket Count: 1646237
+Chaining Load Factor: 0.61
+
+Probing Insertion Time: 0.09 Seconds
+Probing Search Time: 0.00 Seconds
+Probing Failed Search Time: 0.01 Seconds
+Probing Deletion Time: 0.01 Seconds
+Probing Table Size: 999999
+Probing Bucket Count: 1646237
+Probing Load Factor: 0.61
+
+Parallel Probing Insertion Time(Single Thread): 0.09 Seconds
+Parallel Probing Search Time(Single Thread): 0.00 Seconds
+Parallel Probing Failed Search Time(Single Thread): 0.01 Seconds
+Parallel Probing Deletion Time(Single Thread): 0.01 Seconds
+Parallel Probing Table Size(Single Thread): 999999
+Parallel Probing Bucket Count(Single Thread): 1646237
+Parallel Probing Load Factor(Single Thread): 0.61
+
+Parallel Probing Insertion Time(12 Threads): 0.28 Seconds
+Parallel Probing Search Time(12 Threads): 0.00 Seconds
+Parallel Probing Failed Search Time(12 Threads): 0.01 Seconds
+Parallel Probing Deletion Time(12 Threads): 0.01 Seconds
+Parallel Probing Table Size(12 Threads): 999999
+Parallel Probing Bucket Count(12 Threads): 1646237
+Parallel Probing Load Factor(12 Threads): 0.61
